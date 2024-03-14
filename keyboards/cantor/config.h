@@ -23,5 +23,4 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
-#define COMBO_COUNT 11
 #define TAPPING_TERM 160
